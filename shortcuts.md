@@ -1,5 +1,5 @@
 | Shortcut                             | App              | Description                                                                                                                                       |
-|--------------------------------------|------------------|---------------------------------------------------------------------------------------------------------------------------------------------------|
+|:--------------------------------------|:------------------|:---------------------------------------------------------------------------------------------------------------------------------------------------|
 | cmd+shift+c                          | Maccy            | Shows clipboard history                                                                                                                           |
 | Ctrl + A                             | Terminal         | Go to the beginning of the line you are currently typing on. This also works for most text input fields system wide. Netbeans being one exception |
 | Ctrl + E                             | Terminal         | Go to the end of the line you are currently typing on. This also works for most text input fields system wide. Netbeans being one exception       |
