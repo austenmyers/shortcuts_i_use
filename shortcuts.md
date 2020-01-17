@@ -1,3 +1,11 @@
+The following table is a list of shortcuts I use for reference.
+Maybe you can make use of this curated list as well.
+
+To generate the table in markdown I copy from a table and paste it into this markdown converter tool:
+https://thisdavej.com/copy-table-in-excel-and-paste-as-a-markdown-table/
+
+## Shortcuts
+
 | Shortcut                             | App              | Description                                                                                                                                       |
 |:--------------------------------------|:------------------|:---------------------------------------------------------------------------------------------------------------------------------------------------|
 | cmd+shift+c                          | Maccy            | Shows clipboard history                                                                                                                           |
@@ -93,11 +101,11 @@
 | alt-cmd-left                         | Atom Text Editor | Cycles left through open tabs (in the active pane)                                                                                                |
 | alt-cmd-right                        | Atom Text Editor | Cycles right through open tabs (in the active page)                                                                                               |
 | cmd-\                                | Atom Text Editor | Toggles Atom's file Tree View                                                                                                                     |
-| shift-cmd-d                          |                  | Duplicates the line of the current cursor position and creates a new line under it with the same contents                                         |
-| ctrl-shift-k                         |                  | Deletes the current line                                                                                                                          |
-| ctrl-m                               |                  | The cursor goes to the matching top bracket that the cursor is ecapsulated in                                                                     |
-| cmd-l                                |                  | Selects the entire line the cursor's current position is in                                                                                       |
-| cmd-/                                |                  | Toggles the selected text into a comment of the current grammar                                                                                   |
-| cmd-d                                |                  | Select Same Words                                                                                                                                 |
-| cmd-ctrl-g                           |                  | Select All The Same Words At Once                                                                                                                 |
-| ctrl-alt-b                           |                  | Beautify package                                                                                                                                  |
+| shift-cmd-d                          | Atom Text Editor | Duplicates the line of the current cursor position and creates a new line under it with the same contents                                         |
+| ctrl-shift-k                         | Atom Text Editor | Deletes the current line                                                                                                                          |
+| ctrl-m                               | Atom Text Editor | The cursor goes to the matching top bracket that the cursor is ecapsulated in                                                                     |
+| cmd-l                                | Atom Text Editor | Selects the entire line the cursor's current position is in                                                                                       |
+| cmd-/                                | Atom Text Editor | Toggles the selected text into a comment of the current grammar                                                                                   |
+| cmd-d                                | Atom Text Editor | Select Same Words                                                                                                                                 |
+| cmd-ctrl-g                           | Atom Text Editor | Select All The Same Words At Once                                                                                                                 |
+| ctrl-alt-b                           | Atom Text Editor | Beautify package                                                                                                                                  |
