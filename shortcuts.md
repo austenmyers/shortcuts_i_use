@@ -1,7 +1,7 @@
 The following table is a list of shortcuts I use for reference.
 Maybe you can make use of this curated list as well.
 
-To generate the table in markdown I copy from a table and paste it into this markdown converter tool:
+To generate the table in markdown I copy from the working table and paste it into this markdown converter tool:
 https://thisdavej.com/copy-table-in-excel-and-paste-as-a-markdown-table/
 
 ## Shortcuts
